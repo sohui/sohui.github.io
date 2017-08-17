@@ -7,6 +7,16 @@ keywords: HTML
 description: 
 ---
 
+## 目录
+
+* [学习资料](#学习资料)
+* [常用属性](#常用属性)
+
+
+## 学习资料
+* [HTML 教程](http://www.runoob.com/html/html-tutorial.html)
+* [HTML5 简介](http://www.runoob.com/html/html5-intro.html)
+
 ## 常用属性
 
 ### 在link中可能会出现media=screen的情况
