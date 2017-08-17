@@ -2,8 +2,8 @@
 layout: post
 title: CSS常用资源
 category: 资源
-tags: CSS, CSS3, Bootstrap
-keywords: CSS, CSS3, Bootstrap
+tags: CSS CSS3 Bootstrap
+keywords: CSS CSS3 Bootstrap
 description: CSS学习资料, Bootstrap响应式开发
 ---
 
