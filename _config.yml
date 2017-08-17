@@ -47,3 +47,5 @@ gems:
   - jekyll-seo-tag
   - jekyll-feed
 
+
+theme: jekyll-theme-time-machine
