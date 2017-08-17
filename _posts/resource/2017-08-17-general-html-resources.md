@@ -2,9 +2,9 @@
 layout: post
 title: HTML 常用资源
 category: 资源
-tags: HTML
-keywords: HTML
-description: 
+tags: HTML, HTML5, H5
+keywords: HTML, HTML5, H5
+description: HTML学习资料, HTML常用属性
 ---
 
 ## 目录
