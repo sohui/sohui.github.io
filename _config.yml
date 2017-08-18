@@ -1,6 +1,6 @@
 # Site settings
 title: 顾才军的博客
-email: sohui.gu@gmail.com
+email: sohui.gu@.com
 description: > # this means to ignore newlines until "baseurl:"
   顾才军的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -21,7 +21,7 @@ linkedin: sohuigu
 
 # avatar and Favicon
 avatar: /assets/img/sohuigu.jpg
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+favicon: /assets/icon/sohuigu.ico
 
 # disqus config
 disqus:
