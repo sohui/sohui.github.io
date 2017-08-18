@@ -14,13 +14,13 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: sohui
-weibo: sohui
+twitter: sohui_gu
+weibo: sohuigu
 github: sohui
 linkedin: sohuigu
 
 # avatar and Favicon
-avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
+avatar: /assets/img/sohuigu.jpg
 favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # disqus config
