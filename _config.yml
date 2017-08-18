@@ -25,7 +25,7 @@ favicon: /assets/icon/sohuigu.ico
 
 # disqus config
 disqus:
-  shortname: sohui-zh
+  shortname: sohuigu
 
 # google analytics config
 ga:
