@@ -19,3 +19,6 @@ keywords: server linux tomcat nginx centos liferay portal
 
 * [Docker](http://www.docker.com/)
     * [Docker 教程](http://www.runoob.com/docker/docker-tutorial.html)
+
+* 邮件服务器
+    * [Linux搭建邮件服务器](http://www.cnblogs.com/chris-cp/p/4843407.html)
