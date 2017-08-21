@@ -4,6 +4,7 @@ title: 绩效管理四部曲
 category: 管理
 tags: 绩效管理
 keywords: 管理 绩效管理
+description:绩效管理四部曲
 ---
 
 ## 1. 目标制定：领导者和员工达成共识
