@@ -4,7 +4,6 @@ title: SMART原则
 category: 管理
 tags: SMART 目标管理
 keywords: smart 管理 目标管理
-description:目标管理
 ---
 
 ## SMART原则
