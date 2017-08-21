@@ -7,3 +7,9 @@ keywords: 大数据 Spark MongoDB
 ---
 
 ## 大数据
+* PostgreSQL
+    * [PostgreSQL新手入门](http://www.ruanyifeng.com/blog/2013/12/getting_started_with_postgresql.html)
+    * [PostgreSQL教程](http://www.yiibai.com/postgresql/)
+* MongoDB
+    * [MongoDB教程](http://www.runoob.com/mongodb/mongodb-tutorial.html)
+* [Spark](http://spark.apache.org/)
