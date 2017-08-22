@@ -10,4 +10,4 @@ keywords: CSS CSS3
 * [CSS 教程](http://www.runoob.com/css/css-tutorial.html)
 * [CSS3 教程](http://www.runoob.com/css3/css3-tutorial.html)
 * [Bootstrap 教程](http://www.runoob.com/bootstrap/bootstrap-tutorial.html)
-* [Font Awesome 图标](http://www.runoob.com/font-awesome/fontawesome-tutorial.htm)
+* [Font Awesome 图标](http://www.runoob.com/font-awesome/fontawesome-tutorial.html)
