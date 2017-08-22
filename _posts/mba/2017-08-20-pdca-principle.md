@@ -2,7 +2,7 @@
 layout: post
 title: 绩效考核中的PDCA循环
 category: 管理
-tags: PDCA
+tags: PDCA 绩效考核 绩效管理
 keywords: 管理 绩效管理 PDCA
 ---
 
