@@ -15,5 +15,6 @@ keywords: windows
 
 ## How to fix `Filename too long` in git for windows
 以`管理员`身份执行如下命令：
-```run
+```
 git config --system core.longpaths true
+```
