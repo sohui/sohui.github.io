@@ -6,7 +6,7 @@ tags: CSS CSS3
 keywords: CSS CSS3
 ---
 
-## CSS3
+## 学习资料
 * [CSS 教程](http://www.runoob.com/css/css-tutorial.html)
 * [CSS3 教程](http://www.runoob.com/css3/css3-tutorial.html)
 * [Bootstrap 教程](http://www.runoob.com/bootstrap/bootstrap-tutorial.html)

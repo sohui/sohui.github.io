@@ -6,7 +6,7 @@ tags: Java OSGI Spring SpringMVC
 keywords: Java Spring SpringMVC Hibernate OSGI
 ---
 
-## Java
+## 学习资料
 * [Java 教程](http://www.runoob.com/java/java-tutorial.html)
 * [设计模式](http://www.runoob.com/design-pattern/design-pattern-tutorial.html)
 * [Servlet 教程](http://www.runoob.com/servlet/servlet-tutorial.html)

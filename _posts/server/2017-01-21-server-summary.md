@@ -6,7 +6,7 @@ tags: server
 keywords: server linux tomcat nginx centos liferay portal
 ---
 
-## 服务器
+## 学习资料
 * Linux [Linux 教程](http://www.runoob.com/linux/linux-tutorial.html) [Linux 命令大全](http://www.runoob.com/linux/linux-command-manual.html)
     * ubuntu
     * CentOS
