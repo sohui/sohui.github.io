@@ -13,10 +13,10 @@ layout: post
 
 ## 管理
   - 价值取向
-  - 团队建设
+  - [团队建设](/2017/08/23/team-building-principle.html)
   - 目标管理
   - 时间管理
-  - 绩效管理
+  - [绩效管理](/2017/08/20/performance-principle.html)
 
 ## 技术
   - 前端技术
