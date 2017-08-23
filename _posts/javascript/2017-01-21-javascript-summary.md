@@ -6,7 +6,7 @@ tags: JavaScript
 keywords: JavaScript JS
 ---
 
-## JavaScript
+## 学习资料
 * JavaScript
     * [JavaScript 教程](http://www.runoob.com/js/js-tutorial.html)
     * [JSON 教程](http://www.runoob.com/json/json-tutorial.html)
