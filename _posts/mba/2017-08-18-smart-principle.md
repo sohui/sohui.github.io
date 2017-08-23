@@ -11,7 +11,7 @@ SMART（S=Specific、M=Measurable、A=Attainable、R=Relevant、T=Time-bound）�
 ## SMART原则简介
 目标管理由管理学大师Peter Drucker提出，首先出现于他的著作《管理实践》（The Practice of Management）一书中，该书于1954年出版。 根据Drucker的说法，管理人员一定要避免“活动陷阱”（Activity Trap），不能只顾低头拉车，而不抬头看路，最终忘了自己的主要目标。 MBO的一个重要概念是企业战略规划不能仅由几个高管来执行，所有管理人员都应该参与进来，这将更有利于战略的执行。另一个相关概念是，企业要设计有一个完整的绩效系统，它将帮助企业实现高效运作。 由此，可以将目标管理视为Value Based Management（价值管理）的前身。
 
-制定目标看似一件简单的事情，每个人都有过制定目标的经历，但是如果上升到技术的层面，经理必须学习并掌握SMART原则。
+制定目标看似一件简单的事情，每个人都有过制定目标的经历，但是如果上升到技术的层面，经理必须学习并掌握`SMART原则`。
 
 ## 所谓SMART原则
 1. 绩效指标必须是具体的（Specific）
