@@ -6,7 +6,7 @@ tags: liferay portal portlet
 keywords: liferay portal portlet
 ---
 
-## Ｗhy liferay?
+## Why Liferay?
 
 ## 学习资料
 
