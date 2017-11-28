@@ -11,6 +11,7 @@ keywords: JavaScript JS
     * [JavaScript 教程](http://www.runoob.com/js/js-tutorial.html)
     * [JSON 教程](http://www.runoob.com/json/json-tutorial.html)
     * [jQuery 教程](http://www.runoob.com/jquery/jquery-tutorial.html)
+    * [14个你可能不知道的JavaScript调试技巧](https://mp.weixin.qq.com/s/Hmrk6JWEbz8gb6uqEnDcDQ)
 
 * [React](https://facebook.github.io/react/)
     * [React 教程](http://www.runoob.com/react/react-tutorial.html)
